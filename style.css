@@ -1,0 +1,78 @@
+/* header css start */
+header {
+  background-color: rgb(9, 63, 77);
+  padding: 0.5em 0.5em 0.5em;
+}
+ul {
+  display: flex;
+  list-style-type: none;
+  color: white;
+  align-items: center;
+}
+span {
+  font-weight: 50px;
+  font-size: 25px;
+  margin-right: 800px;
+}
+
+li {
+  float: right;
+  margin-right: 40px;
+}
+
+/* header css end */
+
+/* main css start */
+
+main {
+  margin-top: 5px;
+}
+
+/* 1st row css start */
+.content1 {
+  background-color: rgb(87, 206, 253);
+}
+
+.img-res2 {
+  position: relative;
+  bottom: 20%;
+  left: 55%;
+}
+.img-res3 {
+  position: relative;
+  bottom: 35%;
+  left: 0%;
+}
+.btn {
+  color: aliceblue;
+  margin-top: 40px;
+  margin-left: 40px;
+  background-color: rgb(221, 55, 83);
+}
+
+/* 1st row css end */
+
+.badges {
+  display: flex;
+}
+.bg-warning {
+  position: relative;
+  right: 380%;
+}
+.content2Left {
+  background-color: rgb(253, 249, 250);
+}
+.fa {
+  color: coral;
+}
+.content2Right {
+  background-color: rgb(255, 243, 235);
+}
+/* main css end */
+
+footer {
+  background-color: rgb(43, 42, 40);
+  color: white;
+  height: 40px;
+  margin-top: 5px;
+}
